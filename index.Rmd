@@ -6,6 +6,15 @@ output:
   beamer_presentation: default
 ---
 
+## Before we get started
+
+For those interested in reproducibility:
+
+- [Good Enough Practices in Scientific Computing](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005510)
+- [Reproducible Research in Statistics](https://rpubs.com/minnier/repro-bsr-2016-06)
+- Literate computing: [Intro to RMarkdown](https://rpubs.com/brandonkopp/RMarkdown)
+
+
 ## Actionable Variants
 
   + What are they?
